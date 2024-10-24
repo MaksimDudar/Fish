@@ -1,0 +1,331 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.30f1 (70558241b701) revision 7361922'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'ru' Physical Memory: 7582 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.30f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+D:/Unity/FIShh/Fish/My project (1)
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+65237
+Successfully changed project path to: D:/Unity/FIShh/Fish/My project (1)
+D:/Unity/FIShh/Fish/My project (1)
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [15768] Host "[IP] 192.168.100.106 [Port] 0 [Flags] 2 [Guid] 1513524013 [EditorId] 1513524013 [Version] 1048832 [Id] WindowsEditor(7,MaksimDudar) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [15768] Host "[IP] 192.168.100.106 [Port] 0 [Flags] 2 [Guid] 1513524013 [EditorId] 1513524013 [Version] 1048832 [Id] WindowsEditor(7,MaksimDudar) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Refreshing native plugins compatible for Editor in 6.90 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.30f1 (70558241b701)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.30f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity/FIShh/Fish/My project (1)/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon (TM) Graphics (ID=0x15e7)
+    Vendor:   ATI
+    VRAM:     3791 MB
+    Driver:   30.0.14020.2
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.30f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.30f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.30f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56244
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.30f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.30f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.30f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.017480 seconds.
+- Loaded All Assemblies, in  0.500 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 346 ms
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.752 seconds
+Domain Reload Profiling: 1249ms
+	BeginReloadAssembly (140ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (45ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (97ms)
+	LoadAllAssembliesAndSetupDomain (202ms)
+		LoadAssemblies (138ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (198ms)
+			TypeCache.Refresh (196ms)
+				TypeCache.ScanAssembly (176ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (752ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (681ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (481ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (134ms)
+			ProcessInitializeOnLoadMethodAttributes (59ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.317 seconds
+Refreshing native plugins compatible for Editor in 3.16 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.784 seconds
+Domain Reload Profiling: 2099ms
+	BeginReloadAssembly (281ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (52ms)
+	RebuildCommonClasses (44ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (59ms)
+	LoadAllAssembliesAndSetupDomain (920ms)
+		LoadAssemblies (807ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (293ms)
+			TypeCache.Refresh (254ms)
+				TypeCache.ScanAssembly (219ms)
+			ScanForSourceGeneratedMonoScriptInfo (25ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (784ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (572ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (35ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (84ms)
+			ProcessInitializeOnLoadAttributes (410ms)
+			ProcessInitializeOnLoadMethodAttributes (26ms)
+			AfterProcessingInitializeOnLoad (11ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 3.81 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3171 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 40 unused Assets / (407.1 KB). Loaded Objects now: 3630.
+Memory consumption went from 130.4 MB to 130.0 MB.
+Total: 8.370000 ms (FindLiveObjects: 0.578100 ms CreateObjectMapping: 0.107500 ms MarkObjects: 6.930500 ms  DeleteObjects: 0.751300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 271790.292574 seconds.
+  path: Assets/FishingGameTool/Example/FishingBaits/RareBait.asset
+  artifactKey: Guid(4a16863d9072fa843bf87e349ec5b42c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishingGameTool/Example/FishingBaits/RareBait.asset using Guid(4a16863d9072fa843bf87e349ec5b42c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11a104f564451f6646772bf360254787') in 0.026627 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/FishingGameTool/Example/Prefabs/Character/ClenchedHandsMask.mask
+  artifactKey: Guid(f304579cfc4643642963093f65968ecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishingGameTool/Example/Prefabs/Character/ClenchedHandsMask.mask using Guid(f304579cfc4643642963093f65968ecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '210c525460606497f413b86c8631194d') in 0.002553 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/FishingGameTool/Example/FishingLoot/CommonLoot.asset
+  artifactKey: Guid(dd19c46f920ade44892bc7fcadc5bec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishingGameTool/Example/FishingLoot/CommonLoot.asset using Guid(dd19c46f920ade44892bc7fcadc5bec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57a1e93aa8dae0adbd09d0fe812746e0') in 0.003585 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/FishingGameTool/Example/FishingLoot/EpicLoot.asset
+  artifactKey: Guid(aff93508027c2104b8da9a4364555531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishingGameTool/Example/FishingLoot/EpicLoot.asset using Guid(aff93508027c2104b8da9a4364555531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c96191ad7ca9a1fddbc2f5ca9ff8647f') in 0.013213 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/FishingGameTool/Example/FishingBaits/EpicBait.asset
+  artifactKey: Guid(2d78c17a1c41e4c43bcb5860c7439ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishingGameTool/Example/FishingBaits/EpicBait.asset using Guid(2d78c17a1c41e4c43bcb5860c7439ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8239f08f5ef82fe1540a2cefa6f8c592') in 0.002006 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/FishingGameTool/Example/FishingBaits/LegendaryBait.asset
+  artifactKey: Guid(a2bfb794935e7964fa0782de2453bbf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishingGameTool/Example/FishingBaits/LegendaryBait.asset using Guid(a2bfb794935e7964fa0782de2453bbf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbd2ccaf86afae230ed9ef732eefa98a') in 0.001836 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/FishingGameTool/Example/FishingLoot/RareLoot.asset
+  artifactKey: Guid(c24527e0f1c1f35499fe48f4d840a89e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishingGameTool/Example/FishingLoot/RareLoot.asset using Guid(c24527e0f1c1f35499fe48f4d840a89e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffb3bc26475a3b277b74d8e8a8962443') in 0.003900 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/FishingGameTool/Example/Prefabs/Character/Character.prefab
+  artifactKey: Guid(ea1d495f775ba504d9c3f825439a0883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishingGameTool/Example/Prefabs/Character/Character.prefab using Guid(ea1d495f775ba504d9c3f825439a0883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e57504e7dc35be34dd559bcc7f662b4') in 0.385898 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 339
+========================================================================
+Received Import Request.
+  Time since last request: 3.174284 seconds.
+  path: Assets/FishingGameTool/Example/Prefabs/FishingFloat/FishingFloat.prefab
+  artifactKey: Guid(98e650bb3e8aeb845b488cd1f9c6b9a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishingGameTool/Example/Prefabs/FishingFloat/FishingFloat.prefab using Guid(98e650bb3e8aeb845b488cd1f9c6b9a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b87d8e5676fa659b211f3f05afdbec2') in 0.013161 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 70
+========================================================================
+Received Import Request.
+  Time since last request: 1.884392 seconds.
+  path: Assets/FishingGameTool/Example/Prefabs/FishingRod/FishingRod.fbx
+  artifactKey: Guid(0621b6057c059284babd9f03a93b6333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishingGameTool/Example/Prefabs/FishingRod/FishingRod.fbx using Guid(0621b6057c059284babd9f03a93b6333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0876b93b3ab490786f7fe0ccc444c13') in 0.061202 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 56
+========================================================================
+Received Import Request.
+  Time since last request: 4.656681 seconds.
+  path: Assets/FishingGameTool/Example/Prefabs/Loot/ExampleFishPrefab.prefab
+  artifactKey: Guid(9f56410b4eb3ea8459db076e01889596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishingGameTool/Example/Prefabs/Loot/ExampleFishPrefab.prefab using Guid(9f56410b4eb3ea8459db076e01889596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e00daeb11c8ee6fc5f68e458d7550210') in 0.033374 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 51
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/FishingGameTool/Example/Prefabs/Loot/Fish_hm.png
+  artifactKey: Guid(fbf33ec48f2ba7d44a45fc1bf2e2acbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishingGameTool/Example/Prefabs/Loot/Fish_hm.png using Guid(fbf33ec48f2ba7d44a45fc1bf2e2acbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a44252a0510098400e29381dc0ac4299') in 0.036204 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/FishingGameTool/Example/Prefabs/Loot/stovel_Base_color.png
+  artifactKey: Guid(710494f2551b43d46ae2dfd37ad1aefb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishingGameTool/Example/Prefabs/Loot/stovel_Base_color.png using Guid(710494f2551b43d46ae2dfd37ad1aefb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60abb08230cd5b2f3ac398df432fa543') in 0.008696 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/FishingGameTool/Example/Prefabs/Loot/stovel_Mixed_AO.png
+  artifactKey: Guid(2c250212e51af8e45bd39f733ec7cff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishingGameTool/Example/Prefabs/Loot/stovel_Mixed_AO.png using Guid(2c250212e51af8e45bd39f733ec7cff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8de0c5108e2ee74aaad10f5038213cba') in 0.008294 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/FishingGameTool/Example/Prefabs/Loot/stovel_Normal_OpenGL.png
+  artifactKey: Guid(0273d75fa0569634a8628e5f8a6eed0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishingGameTool/Example/Prefabs/Loot/stovel_Normal_OpenGL.png using Guid(0273d75fa0569634a8628e5f8a6eed0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5efaed463b5643af4fe81962756b78df') in 0.019079 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/FishingGameTool/Example/Prefabs/Loot/stovel_Metallic.png
+  artifactKey: Guid(3cf16d345e427504d82469528359aea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishingGameTool/Example/Prefabs/Loot/stovel_Metallic.png using Guid(3cf16d345e427504d82469528359aea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be99f21d4fe801d2ac8948bba4b0582b') in 0.007710 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.689376 seconds.
+  path: Assets/FishingGameTool/Example/Prefabs/Water/Water_mat_01.mat
+  artifactKey: Guid(141d9d6ca43b6c843965491604c6deff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishingGameTool/Example/Prefabs/Water/Water_mat_01.mat using Guid(141d9d6ca43b6c843965491604c6deff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c88c84e4e81c2e8e48ae53717449ed5b') in 0.011884 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/FishingGameTool/Example/Prefabs/Water/WaterSurface_single.tif
+  artifactKey: Guid(11154d936b05e66498f68fa178c5cfbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FishingGameTool/Example/Prefabs/Water/WaterSurface_single.tif using Guid(11154d936b05e66498f68fa178c5cfbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fd226b59c18d8d3a659994986ee409c') in 0.009762 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
